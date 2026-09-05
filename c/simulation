@@ -1,0 +1,51 @@
+===== JAVA CALCULATOR =====
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Modulus
+6. Exit
+
+Enter your choice: 1
+Enter first number: 20
+Enter second number: 10
+Result = 30.0
+
+
+===== JAVA CALCULATOR =====
+
+Enter your choice: 2
+Enter first number: 20
+Enter second number: 10
+Result = 10.0
+
+
+===== JAVA CALCULATOR =====
+
+Enter your choice: 3
+Enter first number: 20
+Enter second number: 10
+Result = 200.0
+
+
+===== JAVA CALCULATOR =====
+
+Enter your choice: 4
+Enter first number: 20
+Enter second number: 10
+Result = 2.0
+
+
+===== JAVA CALCULATOR =====
+
+Enter your choice: 5
+Enter first number: 25
+Enter second number: 4
+Result = 1.0
+
+
+===== JAVA CALCULATOR =====
+
+Enter your choice: 6
+Thank you for using Calculator!
